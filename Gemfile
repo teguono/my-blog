@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
-gem "github-pages"
+gem "github-pages", "228"
 
-gem "jekyll", "~> 4.3.2"
-gem "minima", "~> 2.5"
+gem "jekyll", ">= 3.9.3", "< 5.0"  # Updated jekyll version range
+gem "minima", ">= 2.5", "< 3.0"   # Updated minima version range
 
 # Add the sass-embedded gem with its version specification here
 gem "sass-embedded", "~> 1.54"
