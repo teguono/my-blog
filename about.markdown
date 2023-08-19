@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
   Hello guys! My name is Teguono Okotete and I'm a sophomore at [Vanderbilt University](https://www.vanderbilt.edu/), studying
-  Economics and Mathematics with a minor in Computer Science. 
+  Economics and Computer Science. 
   
   My current involvements on campus are:
   - [Alpha Kappa Psi](https://www.vanderbiltakpsi.com/)
