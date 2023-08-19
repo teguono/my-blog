@@ -9,7 +9,7 @@ categories: "reflection"
 
 My sophomore year classes begin. My indecisiveness has made me oscillate among the three disciplines of Economics, Computer Science, and Mathematics. "_Why not just do all three?_" well because that's, quite frankly, something I'm not capable of doing. Anyway, I have decided to continue my pathway of double-majoring in Economics and Computer Science. Just that this time, I am in the College of Arts and Sciences rather than in the School of Engineering.
 
-I will be taking my approach to classes a little differently now. I will no longer see it as just mere studying and taking exams. My goal is to integrate it as much as a can with my daily life. Hence, I will be using this platform as an opportunity to document my inquiries related (whether strongly or loosely) to the course. Withouth further ado, here's a list of the courses that I'm taking.
+I will be taking my approach to classes a little differently now. I will no longer see it as just mere studying and taking exams. My goal is to integrate it as much as a can with my daily life. Hence, I will be using this platform as an opportunity to document my inquiries related (whether strongly or loosely) to the course. Without further ado, here's a list of the courses that I'm taking.
 
 
 __---__
@@ -28,7 +28,7 @@ I believe that the first step towards success is honesty. I have a confession to
 
 Okay that was a tangent. Back to business.
 
-If any of my inquiries are related to any of/a combination of the classes that I'm taking, I will most likely prefix the title with the shortened name of the course (e.g ECON 3012: Do Consumers Really Have a Choice?). My hopes are that by applying what I'm learning into my personal life by ruminating on the concepts learned and passively forming connections withing the concepts and among other concepts, I will enrich my learning experience.
+If any of my inquiries are related to any of/a combination of the classes that I'm taking, I will most likely prefix the title with the shortened name of the course (e.g ECON 3012: Do Consumers Really Have a Choice?). My hopes are that by applying what I'm learning into my personal life by ruminating on the concepts learned and passively forming connections within each concept and among other concepts, I will enrich my learning experience.
 
 At the end of the day, this is an experiment. We'll see how it goes. Hoping for success.
 
